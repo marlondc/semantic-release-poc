@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "private": true,
+  "release": {
+    "branches": "main"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +22,6 @@
   "homepage": "https://github.com/marlondc/semantic-release-poc#readme",
   "devDependencies": {
     "semantic-release": "^17.4.2"
-  }
+  },
+  "dependencies": {}
 }
