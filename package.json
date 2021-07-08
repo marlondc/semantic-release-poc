@@ -1,7 +1,7 @@
 {
   "name": "@marlondc/semantic-release-poc",
   "version": "1.2.1",
-  "description": "",
+  "description": "Semantic release POC",
   "main": "index.js",
   "private": true,
   "release": {
