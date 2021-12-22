@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.1](https://github.com/marlondc/semantic-release-poc/compare/v1.3.0...v1.3.1) (2021-12-22)
+
+
+### Bug Fixes
+
+* **package.json:** add npm back to semantic release flow ([e32c4ed](https://github.com/marlondc/semantic-release-poc/commit/e32c4ed948d22b2893373fd421cc2b75e5066696))
+
 # [1.3.0](https://github.com/marlondc/semantic-release-poc/compare/v1.2.1...v1.3.0) (2021-12-22)
 
 
