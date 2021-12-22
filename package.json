@@ -16,12 +16,6 @@
         }
       ],
       [
-        "@semantic-release/npm",
-        {
-          "tarballDir": "pack"
-        }
-      ],
-      [
         "@semantic-release/github",
         {
           "assets": "pack/*.tgz"
