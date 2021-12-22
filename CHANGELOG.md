@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/marlondc/semantic-release-poc/compare/v1.2.1...v1.3.0) (2021-12-22)
+
+
+### Features
+
+* **github:** update github action ([fa6ae12](https://github.com/marlondc/semantic-release-poc/commit/fa6ae1204d8f16aa32bdba6b71946903ae3bdd62))
+
 ## [1.2.1](https://github.com/marlondc/semantic-release-poc/compare/v1.2.0...v1.2.1) (2021-06-21)
 
 
